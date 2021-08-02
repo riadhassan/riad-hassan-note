@@ -83,7 +83,17 @@ Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-
 </body>
 </html>
 ```
+```python
+import numpy as np
+print("hello world")
 
+for i in range(20):
+    if i%2:
+        print("odd")
+    else:
+        print("Even"
+
+```
 #### Code block indented with four spaces
 
     <!doctype html>
