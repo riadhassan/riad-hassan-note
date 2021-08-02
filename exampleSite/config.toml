@@ -101,25 +101,25 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fas fa-github"
+icon = "fa fa-github"
 weight = 1
 url = "https://github.com/riadhassan/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fas fa-linkedin"
-weight = 4
+icon = "fa fa-linkedin"
+weight = 2
 url = "https://www.linkedin.com/in/riadhassan/"
 
 [[params.social]]
 name = "Facebook"
-icon = "fas fa-facebook-square"
-weight = 4
+icon = "fa fa-facebook-square"
+weight = 3
 url = "https://www.facebook.com/RiadHa2san/"
 
 [[params.social]]
 name = "Email"
-icon = "fas fa-envelope"
+icon = "fa fa-envelope"
 weight = 4
 url = "mailto:riad_hassan@outlook.com"
 
