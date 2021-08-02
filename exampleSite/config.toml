@@ -101,19 +101,19 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fab fa-github"
+icon = "fas fa-github"
 weight = 1
 url = "https://github.com/riadhassan/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fab fa-linkedin"
+icon = "fas fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/riadhassan/"
 
 [[params.social]]
 name = "Facebook"
-icon = "fab fa-facebook-square"
+icon = "fas fa-facebook-square"
 weight = 4
 url = "https://www.facebook.com/RiadHa2san/"
 
