@@ -15,10 +15,10 @@ enableEmoji = true
 author = "Riad Hassan"
 description = "It is for sharing notes"
 keywords = "teaching, sharing note"
-info = ["Love to learn"]
+info = ["Learning is Power"]
 avatarURL = "images/riad.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "Learing is the power"
+footerContent = "Learn With Riad Hassan"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
@@ -128,6 +128,6 @@ languageName = ":uk:"
 
 
 [[languages.en.menu.main]]
-name = "Notes"
+name = "HSC Math"
 weight = 5
-url = "notes/"
+url = "hsc-math/"
