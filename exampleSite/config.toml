@@ -106,7 +106,7 @@ weight = 1
 url = "https://github.com/riadhassan/"
 
 [[params.social]]
-name = "Github"
+name = "website"
 icon = "fa fa-globe"
 weight = 1
 url = "https://riadhassan.com/"
