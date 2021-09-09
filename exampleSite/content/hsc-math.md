@@ -6,7 +6,8 @@
 - Matrix -2 [Download](https://github.com/riadhassan/riad-hassan-note/raw/master/exampleSite/static/files/Matrix%20-%20%202.pdf)
 #### 1-B: Determinant
 - Determinant - 1 [Download](https://github.com/riadhassan/riad-hassan-note/raw/master/exampleSite/static/files/Matrix%20-%20%203.pdf)
-- Determinant - 2 [Download](https://github.com/riadhassan/riad-hassan-note/raw/master/exampleSite/static/files/Diterminate.pptx)
+- Determinant - 2 [Download](https://github.com/riadhassan/riad-hassan-note/raw/master/exampleSite/static/files/Diterminate.pdf)
+- Determinant - 2 [Download](https://github.com/riadhassan/riad-hassan-note/raw/master/exampleSite/static/files/Diterminate%202.pdf)
 
 #### Assignment
 - Assignment - 1 [Download](https://github.com/riadhassan/riad-hassan-note/raw/master/exampleSite/static/files/Assignment%201.pdf)
